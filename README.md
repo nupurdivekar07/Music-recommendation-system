@@ -1,1 +1,2 @@
 # Music-recommendation-system
+A music recommendation system utilizes algorithms to suggest songs or artists to users based on their preferences and listening history. It typically analyzes factors such as genre, tempo, mood, and user behavior (like previous choices and ratings) to tailor suggestions. These systems can enhance user experience by introducing new music aligned with their tastes and promoting discovery of diverse genres and artists.
